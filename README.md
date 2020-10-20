@@ -24,6 +24,8 @@ I love contributing to the community with [blog posts](http://loiane.com/), [vid
 [![Youtube: loianegroner](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/loianegroner)](http://youtube.com/loianegroner)
 [![Twitch: loianegroner](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/loiane)](https://www.twitch.tv/loiane)
 
+___________________________________________________________
+
 ### ⚡Technologies
 
 These are some of the technologies and tools that I work with:
